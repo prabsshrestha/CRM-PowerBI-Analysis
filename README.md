@@ -47,11 +47,13 @@ The analysis covers:
 - `dashboard-preview.png`
 
 ## Dashboard Preview
+### 📌 CRM Integration Summary
+
+![CRM Summary](Dashboard%20Preview/CRM%20integration%20summary.png)
+
 ### 📌 ROI vs Total Investment
 
 ![ROI vs Total Investment](Dashboard%20Preview/ROI%20vs%20Total%20Investment.png)
 
-### 📌 CRM Integration Summary
 
-![CRM Summary](Dashboard%20Preview/CRM%20integration%20summary.png)
 
