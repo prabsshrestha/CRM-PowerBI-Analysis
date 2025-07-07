@@ -1,5 +1,10 @@
 # CRM Integration Performance Analysis – Power BI Project
 
+[![Repo Size](https://img.shields.io/github/repo-size/prabsshrestha/CRM-PowerBI-Analysis)](https://github.com/prabsshrestha/CRM-PowerBI-Analysis)
+[![Last Commit](https://img.shields.io/github/last-commit/prabsshrestha/CRM-PowerBI-Analysis)](https://github.com/prabsshrestha/CRM-PowerBI-Analysis)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat&logo=powerbi)
+[![GitHub stars](https://img.shields.io/github/stars/prabsshrestha/CRM-PowerBI-Analysis?style=social)](https://github.com/prabsshrestha/CRM-PowerBI-Analysis/stargazers)
+
 📊 This project analyzes the effectiveness and ROI of various CRM platform integrations using Power BI.
 
 ## 📌 Overview
